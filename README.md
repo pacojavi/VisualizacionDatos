@@ -43,8 +43,7 @@ pip install -r requirements.txt
 - `vega_datasets`
 - `jupyter`
 - `numpy`
-- `scikit-learn`
-- `geopandas` *(opcional, si se ejecutan celdas de cruce espacial)*
+
 
 ## 🔗 Ejecutar en línea (Binder)
 
