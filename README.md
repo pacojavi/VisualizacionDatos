@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 ## 🔗 Ejecutar en línea (Binder)
 
-[![Abrir en Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/usuario/repositorio/main?filepath=notebook_altair_FJAA.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pacojavi/VisualizacionDatos.git/HEAD)
 
 ---
 Trabajo desarrollado en el marco de un análisis técnico avanzado con fines educativos y de exploración ambiental urbana.
