@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Visualización de Datos Ambientales - Madrid</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background-color: #f7f9fa;
+      color: #333;
+    }
+    h1 {
+      color: #1a73e8;
+    }
+    ul {
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+    }
+    .grafico {
+      margin: 15px 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🌍 Visualización de Datos Ambientales en Madrid</h1>
+    <p>Este proyecto presenta un análisis exploratorio de variables ambientales recogidas por estaciones del Ayuntamiento de Madrid: calidad del aire, ruido y meteorología.</p>
+
+    <h2>📊 Gráficos interactivos disponibles</h2>
+    <ul>
+      <li class="grafico"><a href="chart_pm10.html">Evolución del contaminante PM10</a></li>
+      <li class="grafico"><a href="chart_barras_apiladas.html">Distribución acumulada por estación</a></li>
+      <li class="grafico"><a href="grafico.html">Animación temporal por estación</a></li>
+      <li class="grafico"><a href="scatter.html">Relación ruido vs. temperatura</a></li>
+      <li class="grafico"><a href="mapa_base.html">Mapa geográfico de estaciones</a></li>
+      <li class="grafico"><a href="detalle_temp.html">Detalle: Temperatura</a></li>
+      <li class="grafico"><a href="detalle_pm10.html">Detalle: PM10</a></li>
+      <li class="grafico"><a href="detalle_o3.html">Detalle: Ozono (O₃)</a></li>
+      <li class="grafico"><a href="detalle_ruido.html">Detalle: Ruido ambiental</a></li>
+    </ul>
+
+    <h2>📄 Notebook de análisis</h2>
+    <p>Consulta el <a href="notebook_altair_FJAA.ipynb">notebook completo</a> con todos los pasos de procesamiento, visualización y análisis.</p>
+
+    <p style="margin-top: 40px; font-size: 0.9em;">Desarrollado como parte de un ejercicio académico. Visualizaciones con Altair, datos abiertos del Ayuntamiento de Madrid.</p>
+  </div>
+</body>
+</html>
