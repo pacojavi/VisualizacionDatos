@@ -22,11 +22,9 @@ utilizando `Altair` para la construcción de visualizaciones interactivas.
 
 ## 🚀 Visualización directa
 
-Los siguientes gráficos pueden visualizarse directamente si se activa GitHub Pages:
+Algunos de los gráficos pueden visualizarse directamente con la publicacion de  GitHub Pages:
 
-- [Evolución PM10](./chart_pm10.html)
-- [Mapa de estaciones](./mapa_base.html)
-- [Panel de detalle: temperatura](./detalle_temp.html)
+- [Enlace General](https://pacojavi.github.io/VisualizacionDatos/)
 
 ## ⚙️ Requisitos
 
@@ -43,12 +41,11 @@ pip install -r requirements.txt
 - `vega_datasets`
 - `jupyter`
 - `numpy`
-- `scikit-learn`
-- `geopandas` *(opcional, si se ejecutan celdas de cruce espacial)*
+
 
 ## 🔗 Ejecutar en línea (Binder)
 
-[![Abrir en Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/usuario/repositorio/main?filepath=notebook_altair_FJAA.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pacojavi/VisualizacionDatos.git/main?urlpath=%2Fdoc%2Ftree%2Fnotebook_altair_FJAA.ipynb)
 
 ---
 Trabajo desarrollado en el marco de un análisis técnico avanzado con fines educativos y de exploración ambiental urbana.
