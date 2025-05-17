@@ -22,11 +22,12 @@ utilizando `Altair` para la construcción de visualizaciones interactivas.
 
 ## 🚀 Visualización directa
 
-Los siguientes gráficos pueden visualizarse directamente si se activa GitHub Pages:
+Algunos de los gráficos pueden visualizarse directamente con la publicacion de  GitHub Pages:
 
-- [Evolución PM10](./chart_pm10.html)
-- [Mapa de estaciones](./mapa_base.html)
-- [Panel de detalle: temperatura](./detalle_temp.html)
+- [Evolución PM10](./graficos/chart_pm10.html)
+- [Panel de detalle: temperatura](./graficos/detalle_temp.html)
+
+- [Enlace General](https://pacojavi.github.io/VisualizacionDatos/)
 
 ## ⚙️ Requisitos
 
